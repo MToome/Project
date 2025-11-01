@@ -12,5 +12,6 @@ Eesmärk luua joonista ja arva mäng. Üks joonistab midagi ja teised arvavad. I
 
 ## Back-end
 
+Laravel
 
-## Fron-end
+## Front-end
